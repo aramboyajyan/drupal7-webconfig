@@ -2,7 +2,7 @@
 
 ### October 10, 2012
 
-Initial commit.
+Initial commit and code.
 
 <hr>
 
