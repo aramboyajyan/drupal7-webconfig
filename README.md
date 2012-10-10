@@ -9,10 +9,6 @@ The file includes two fixes:
 
 Tested on Windows Server 2008 and IIS 7.0.
 
-### Credits
-
-Created and/or maintained by: [topsitemakers.com](http://www.topsitemakers.com).
-
 <hr>
 
 [topsitemakers.com](http://www.topsitemakers.com).
