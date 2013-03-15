@@ -4,11 +4,16 @@
 
 Initial commit and code.
 
-### November 10, 2012
+### November 16, 2012
 
 - Optionally exclude a folder  
 - Set expiration headers of the static content  
 - Remove unnecessary headers in requests
+- HTTP 403 (Forbidden) error handling
+
+### March 15, 2013
+
+Adding `Access-Control-Allow-Origin` for dynamic responses.
 
 <hr>
 
